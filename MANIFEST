@@ -1,0 +1,11 @@
+Changes
+examples/osdetect.pl
+LICENCE
+loadavg.pm
+loadavg.xs
+Makefile.PL
+MANIFEST
+META.yml
+README
+t/loadavg-benchmark.pl
+t/test.t
